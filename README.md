@@ -18,6 +18,6 @@ The detailed analysis in this project provides insights into the strengths and w
 Usage:
 
 Clone the repository.
-*Follow the provided documentation to set up and train the models.
-*Evaluate and compare the models' performance using the provided scripts.
-*Enhance your credit card fraud detection system with the advanced capabilities of GRU, as showcased in this project. Feel free to contribute, raise issues, or provide feedback to improve the *effectiveness of these models further. Together, let's build more secure financial systems!
+>Follow the provided documentation to set up and train the models.
+>Evaluate and compare the models' performance using the provided scripts.
+>Enhance your credit card fraud detection system with the advanced capabilities of GRU, as showcased in this project. Feel free to contribute, raise issues, or provide feedback to improve the *effectiveness of these models further. >Together, let's build more secure financial systems!
